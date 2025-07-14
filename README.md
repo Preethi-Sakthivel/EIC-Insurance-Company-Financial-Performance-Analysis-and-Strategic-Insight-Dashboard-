@@ -1,4 +1,5 @@
-# EIC-Insurance-Company-Financial-Performance-Analysis-and-Strategic-Insight-Dashboard-
+# EIC-Insurance-Company-Financial-Performance-and-Strategic-Insight-Analysis | Power BI | DAX | Power Query |
+
 
 ![image](https://github.com/user-attachments/assets/de9199c4-4429-4a35-a66c-467a208e63e0)
 
@@ -9,11 +10,9 @@
 ![image](https://github.com/user-attachments/assets/a045dc0d-f4cf-4998-96be-c8475a5ce4fe)
 
 
-Project Title: Financial Performance Analysis and Strategic Insight Dashboard for EIC Insurance Company
+💻  Project Overview
 
-💻Project Overview
-
-•	Designed and delivered an end-to-end Power BI dashboard analyzing the financial decline of EIC Insurance Company, transforming over 60,000 records to uncover key loss drivers and recommend profitable segments.
+•	Designed and delivered an end-to-end Power BI dashboard analyzing the financial decline of EIC Insurance Company, transforming records to uncover key loss drivers and recommend profitable segments.
 
 •	Utilized Power Query to cleanse data, remove error values, and engineer new features such as policy duration to improve KPI accuracy and segmentation.
 
@@ -28,16 +27,15 @@ Project Title: Financial Performance Analysis and Strategic Insight Dashboard fo
 •	Delivered actionable insights that supported turnaround strategies by visualizing historical vs. current performance trends and loss centers by geography and policy type.
 
 
-
-✅Project Purpose:
+✅  Project Purpose:
 
 The primary objective of this project was to analyze and diagnose the financial downturn of EIC Insurance Company by leveraging advanced data modeling, data transformation, and interactive visual analytics. The analysis aimed to uncover performance trends, identify root causes of losses, and provide actionable insights to inform strategic decision-making and operational efficiency improvements.
 
-📊Business Problem:
+📊  Business Problem:
 
 EIC Insurance Company experienced consistent financial losses without clear visibility into contributing factors. A lack of consolidated reporting, poor data quality, and minimal stakeholder insights into policy performance, profitability, and customer segmentation hindered timely corrective actions.
 
-📈Project Scope:
+📈  Project Scope:
 
 •	Data integration from multiple internal data sources related to policy, claims, and financial performance.
 
@@ -47,7 +45,7 @@ EIC Insurance Company experienced consistent financial losses without clear visi
 
 •	Creation of an executive dashboard in Power BI to facilitate data-driven decision-making.
 
-🛗Project Goals:
+🛗  Project Goals:
 
 •	Improve data quality and consistency across datasets.
 
@@ -57,21 +55,31 @@ EIC Insurance Company experienced consistent financial losses without clear visi
 
 •	Provide interactive visuals to support stakeholder engagement and storytelling.
 
-🏆Key Deliverables and Achievements:
+🏆  Key Deliverables and Achievements:
 
-•	Transformed over 60,000 records using Power Query to remove nulls/errors and enrich data with new calculated columns (e.g., Policy Duration).
+•	Data Model Optimization: Designed a star schema and established relationships to streamline reporting and enhance query performance.
 
-•	Developed 15+ custom DAX measures for KPIs including Loss Ratio, Profitability Index, and Policy Retention Rate.
+•	DAX Measures: Defined 30+ custom DAX measures including dynamic KPIs such as MoM Sales %, Profit %, Shipment %, and Cost Changes.
 
-•	Built a dynamic Power BI report with custom visuals: bar charts, scatter plots with symmetry shading, layered donut charts, matrix tables, and tooltip-enhanced storytelling pages.
+•	Time Intelligence: Implemented a calendar table to enable advanced date hierarchies and time-based analysis (e.g., rolling averages, YTD).
 
-•	Improved data usability and clarity using conditional formatting, emoji labeling, custom card visuals, and enhanced filter interactions.
+•	Interactive Visuals: Delivered a fully interactive Power BI dashboard with:
 
-•	Identified key profitability segments, enabling business stakeholders to focus on high-performing policies and cut losses by 15% in targeted product lines (projected based on dashboard insights).
+    🔺KPI Cards with conditional formatting and reference labels
 
-•	Achieved a 50% increase in reporting efficiency by centralizing KPIs and reducing manual report preparation through automated dashboards.
+    🔺Dynamic trend analysis using field parameters and DAX calculation groups
 
-⚙️Tools and Technologies Used:
+    🔺Performance tables for salespersons and products
+
+    🔺Histogram shipment analysis with zoom sliders
+
+    🔺UX Enhancements: Integrated tooltips, alert icons, bookmarks (with filter state preservation), and toggle views for enhanced user experience.
+
+    🔺Decision Support: Reduced manual sales reporting time by 70% and improved data accuracy through automation.
+
+________________________________________
+
+⚙️  Tools and Technologies Used:
 
 •	Power BI (DAX, Power Query, Advanced Visuals, Tooltips, Interactions)
 
